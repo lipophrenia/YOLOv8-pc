@@ -54,4 +54,4 @@ python3 pt2onnx.py
 
 ## Run model on th PC.
 
-I'll add it later.
+I'll add it the future.
